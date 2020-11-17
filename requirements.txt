@@ -1,0 +1,11 @@
+streamlit==0.67.1
+plotly==4.10.0
+pandas==1.1.2
+numpy==1.18.5
+speechrecognition==3.8.1
+tensorflow-cpu==2.3.1
+vadersentiment==3.3.2
+spacy>=2.2.0,<3.0.0
+scikit-learn==0.23.2
+
+https://github.com/explosion/spacy-models/releases/download/en_trf_distilbertbaseuncased_lg-2.3.0/en_trf_distilbertbaseuncased_lg-2.3.0.tar.gz
